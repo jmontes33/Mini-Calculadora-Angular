@@ -11,7 +11,7 @@
 
 This is a very simple calculator, where you can sum, subtract and multiply two numbers.
 
-Link to the app: https://lucent-torte-a73881.netlify.app/
+Link to the app: https://elaborate-lamington-c4bb06.netlify.app/
 
 ### Screenshot
 
